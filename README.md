@@ -1,7 +1,7 @@
 # SpringCloudGateway
 
 ## Description
-The **SpringCloudGateway** is a project that show how to implement a reverse proxy using the Spring Cloud Gateway.
+Project that show how to implement a reverse proxy using the Spring Cloud Gateway.
 
 ## Technologies
 The project use the following technologies:
