@@ -4,7 +4,7 @@
 
   <groupId>com.ctseducare</groupId>
   <artifactId>spring-cloud-gateway</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
   
   <properties>
@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.4.5</version>  <!-- apr/2021 -->
+    <version>2.5.3</version>  <!-- jul/2021 -->
     <relativePath /> <!-- lookup parent from repository -->
   </parent>
   
@@ -25,9 +25,9 @@
       <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-dependencies</artifactId>
-        <version>2020.0.2</version>  <!-- mar/2021 -->
+        <version>2020.0.3</version>  <!-- may/2021 -->
         <type>pom</type>
-        <scope>import</scope>
+        <scope>runtime</scope>
       </dependency>
     </dependencies>
   </dependencyManagement>

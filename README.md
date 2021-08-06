@@ -33,6 +33,15 @@ http://localhost:8800/servicetwo
 
 **Tip:** The routes of proxy can be configured in two ways: application.properties or Java class. In this project the routes was configured in Java class named **GatewayRoutesConfig.java**.
 
+## References
+[Spring Boot](https://spring.io/projects/spring-boot)  
+[Spring Cloud](https://spring.io/projects/spring-cloud)  
+[Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway)
+
 ## Release History
+* 1.0.1 (2021-08-03)
+    * Spring Boot updated to 2.5.3
+    * Spring Cloud updated to 2020.0.3
+    * Section 'references' added
 * 1.0.0 (2021-05-15)
     * First version
